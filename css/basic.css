@@ -1,0 +1,26 @@
+/* external css */
+/* tag selector */
+p{
+    border: 3px solid rgb(9, 244, 95);
+    color: chartreuse;
+}
+/* id selector */
+#p1{
+    border: 5px double yellow;
+    font-size: 30px;
+}
+/* class selector */
+.c1{
+    font-style: italic;
+    font-size: 40px;
+}
+/* universal selector */
+*{
+    text-align: center;
+}
+
+/* grouping selector */
+h2,h3,h4{
+    background-color: black;
+    color: aliceblue;
+}

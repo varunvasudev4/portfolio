@@ -1,0 +1,115 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+div{
+    width: 114px;
+    height: 150px;
+    background-color: black;
+}
+#d1{
+    background-color: rgb(61, 41, 22);
+    margin-left: 300px;
+}
+#d2{
+    background-color: darkolivegreen;
+    margin-top: -150px;
+    margin-left: 424px;
+}
+#d3{
+    background-color: rgb(58, 172, 56);
+    margin-top: -150px;
+    margin-left: 548px;
+}
+#d4{
+    background-color: rgb(14, 246, 29);
+    margin-top: -150px;
+    margin-left: 672px;
+}
+#d5{
+    background-color: rgb(249, 224, 191);
+    margin-top: -150px;
+    margin-left: 796px;
+}
+#d6{
+    background-color:#ff751a;
+    margin-top: 50px;
+    margin-left: 176px;
+}
+#d7{
+    background-color:rgb(250, 77, 47);
+    margin-top: -150px;
+    margin-left: 300px;
+}
+#d8{
+    background-color: rgb(255, 116, 139);
+    margin-top: -150px;
+    margin-left: 424px; 
+}
+#d9{
+    background-color: rgb(163, 92, 230);
+    margin-top: -150px;
+    margin-left: 548px;
+}
+#d10{
+    background-color: rgb(134, 8, 251);
+    margin-top: -150px;
+    margin-left: 672px;
+}
+#d11{
+    background-color: rgb(127, 67, 183);
+    margin-top: -150px;
+    margin-left: 796px;
+}
+#d12{
+    background-color: rgb(178, 178, 122);
+    margin-top: -150px;
+    margin-left: 920px;
+}
+#d13{
+    background-color: aqua;
+    margin-top: 50px;
+    margin-left: 52px;
+}
+#d14{
+    background-color: rgb(149, 245, 65);
+    margin-top: -150px;
+    margin-left: 176px;
+}
+#d15{
+    background-color: #ff751a;
+    margin-top: -150px;
+    margin-left: 300px;
+}
+#d16{
+    background-color: crimson;
+    margin-top: -150px;
+    margin-left: 424px; 
+}
+#d17{
+    background-color: rgb(59, 1, 1);
+    margin-top: -150px;
+    margin-left: 548px;
+}
+#d18{
+    background-color: aqua;
+    margin-top: -150px;
+    margin-left: 672px;
+}
+#d19{
+    background-color: rgb(99, 162, 36);
+    margin-top: -150px;
+    margin-left: 796px;
+}
+#d20{
+    background-color: rgb(81, 54, 107);
+    margin-top: -150px;
+    margin-left: 920px;
+}
+#d21{
+    background-color: rgb(101, 37, 88);
+    margin-top: -150px;
+    margin-left: 1044px;
+}

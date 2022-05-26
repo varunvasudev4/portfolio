@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+body {
+    background-image: url("https://hips.hearstapps.com/del.h-cdn.co/assets/16/38/1600x800/landscape-1474650684-cakes-group-193.jpg?resize=980:*");
+    background-attachment: fixed;
+}
+
+h1 {
+    color: orange;
+    font-size: 100px;
+    text-shadow: 2px 2px black;
+}
+
+.row {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.col {
+    width: 23%;
+    height: 600px;
+    background-color: black;
+    border-radius: 10%;
+}
+img{
+    width: 100%;
+    height: 40%;
+    border-radius: 10%;
+}
+h1,p,button{
+    font-family: 'Macondo', cursive;
+}
+p{
+    color: white;
+    text-align: center;
+}
+textarea{
+    margin-left: 40px;
+}
+button{
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 20%;
+}

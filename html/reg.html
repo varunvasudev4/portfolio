@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>registration form</title>
+</head>
+<body>
+     <h3>Registration form</h3>
+     <form>
+        <label for="un">User Name</label>
+        <input type="text" placeholder="user name" id="un"> 
+        <br>
+        <label for="pd">Password</label>
+        <input type="password" placeholder="password" id="pd">
+        <br>
+        <label for="dob">DOB</label>
+        <input type="date" id="dob"> 
+        <br>
+        <label for="addr">Address</label>
+        <textarea name="" id="addr" cols="20" rows="5"></textarea>
+        <br> 
+        <label for="em">E-mail</label>
+        <input type="email" placeholder="email" id="em">
+        <br>
+        <label for="pn">Phone Number</label>
+        <input type="text" placeholder="phone number" id="un"> 
+        <br>
+        <label for="we">Work experience</label>
+        <input type="number" placeholder="1" id="we"> 
+        <br>
+        <label for="">Gender</label>
+        <input type="radio" name="gender" id="male">
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="female">
+        <label for="female">Female</label>
+        <br>
+        <label for="places">Places</label>
+        <select name="" id="places">
+
+            <optgroup label="south india">
+                <option value="">Kochi</option>
+                <option value="">Banglore</option>
+                <option value="" selected>Chennai</option>
+                <option value="">Mumbai</option>
+            </optgroup>
+        </select>
+        <br>
+        <label for="">Skils</label>
+        <input type="checkbox" name="skils" id="html">
+        <label for="html">HTML</label>
+        <input type="checkbox" name="skils" id="css">
+        <label for="css">CSS</label>
+        <input type="checkbox" name="skils" id="js">
+        <label for="js">Java Script</label>
+        <br>
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>

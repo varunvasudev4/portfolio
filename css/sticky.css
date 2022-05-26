@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Smooch&display=swap');
+div{
+    background-color: blueviolet;
+    position: sticky;
+    top: 0px;
+    font-family: 'Macondo', cursive;
+    font-size: 50px;
+}
+#p1{
+    font-size: 50px;
+    font-family: 'Smooch', cursive;
+}

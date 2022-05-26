@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans&display=swap');
+.heading{
+    width: 100%;
+    margin-top: 0;
+    background-color: rgb(155, 92, 92);
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+}
+.heading h1{
+    margin: 0;
+}
+.heading h1 i{
+    font-size: 60px;
+    margin-top: 0; 
+}
+.heading h1:hover{
+    color: darkgreen;
+}
+.sub{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(155, 92, 92);
+    position: sticky;
+    top: 0;
+    bottom: 2600px;
+    color: white;  
+}
+.sub:hover{
+    background-color: rgb(90, 60, 60) ;
+}
+.sub p{
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.row1{
+    text-align: center;
+    background-color: rgb(247, 230, 230);
+}
+.row1 h1{
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    color: brown;
+}
+.row1 h1 b{
+    font-weight:900;
+}
+.row1 h1 b:hover{
+    color: darkgreen;
+}
+.row1 p{
+    text-align: justify;
+    width: 500px;
+    max-height: 700px;
+    border: 4px solid black;
+    margin-left: 350px;
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(148, 89, 89);
+}
+.subhead{
+    font-family: 'Macondo', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+.subhead h1{
+    margin: 0;
+}
+#type,#brands{
+    background-color: rgb(247, 230, 230);
+    padding-top: 20px;
+    margin-top: -20px;
+}
+#type ul li{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.call{
+    margin-top: 40px;
+    margin-left: 1200px;
+    position: fixed;
+    color: black;
+}
+.call:hover{
+    color: rgb(76, 138, 13);
+}
+.r1{
+    width: 100%;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col{
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.col img{
+    width: 100%;
+    height: 250px;
+}
+#gallery{
+    background-color: rgb(146, 106, 106);
+    padding-top: 20px;
+    margin-top: -20px;
+}
+#gallery img{
+    width: 23%;
+    height: 250px;
+    margin: 5px;
+}
+#query{
+    background-color: rgb(247, 230, 230);
+    padding-top: 20px;
+    margin-top: -9px; 
+}
+#query form{
+    border: 2px solid black;
+    padding: 20px 80px;
+    width: 23%;
+    margin-left: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(176, 113, 113);
+    text-align: center;
+}
+.r2{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(159, 84, 84);
+}
+.col2{
+    width: 300px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.col2 a{
+    text-decoration: none;
+    margin-left: -40px;
+    color: black;
+}
+.col2 a:hover,.fa-solid:hover,h3:hover{
+    color: wheat;
+}

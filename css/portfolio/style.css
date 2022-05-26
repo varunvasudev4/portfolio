@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&display=swap');
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+.menu {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.links {
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+.links:hover{
+    font-size: 20px;   
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    text-shadow: 1px 1px black;
+    color: brown;
+}
+html{
+    scroll-behavior: smooth;
+}
+#welcome{
+    background: linear-gradient(aqua,rgb(89, 220, 176));
+    color: darkblue;
+}
+.profile{
+    margin-top: 50px;
+    border-radius: 50%;
+}
+h1{
+    font-size: 40px;
+    font-weight:500 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#name{
+    font-size: 50px;
+    line-height: 1.2;
+    font-family: 'Dancing Script', cursive;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+}
+#bio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+.line{
+    height: 6px;
+    background-color: darkblue;
+    width: 70px;
+    margin: auto;
+}
+p{
+    font-size: 25px;
+}
+#writings a{
+    text-shadow: none;
+    text-decoration: underline;
+}
+#writings a:hover{
+    color: darkblue;
+}
+#contact{
+    background-color: brown;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow: none;
+    color: white;
+}
